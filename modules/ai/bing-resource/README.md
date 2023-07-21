@@ -1,6 +1,6 @@
 # Bing Resource
 
-This module deploys Azure Bing Resource
+This module deploys Azure Bing Resource 2
 
 ## Details
 
