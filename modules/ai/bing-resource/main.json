@@ -5,10 +5,10 @@
     "_generator": {
       "name": "bicep",
       "version": "0.19.5.34762",
-      "templateHash": "7958752088324758326"
+      "templateHash": "15192897839774672415"
     },
     "name": "Bing Resource",
-    "description": "This module deploys Azure Bing Resource",
+    "description": "This module deploys Azure Bing Resource 2",
     "owner": "tanujbhatia1708"
   },
   "parameters": {
